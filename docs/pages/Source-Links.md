@@ -69,3 +69,5 @@ Place the introducing line of text ie.) the 'tagline' here ...
 ***
 
 **Ping-back**: [Economic Lessons Project: Source Links](https://rwebaz.github.io/Economic-Lessons-Project/pages/Source-Links.html){:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}.
+
+- [Narrative Economics by Robert Shiller, Jan #2017](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf). Published by © 2017 [Yale.edu](https://www.yale.edu){:target="_blank"}.
