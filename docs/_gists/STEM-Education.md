@@ -1,10 +1,10 @@
 ---
-title: The Flammarion
+title: STEM-Education
 layout: default
-excerpt: The Flammarion is an ancient portrait of a medieval man poking his head into the ether ...
-version: Flammarion Page Template md Dtd 02-06-18 pm
-navigation_weight: 9
-categories: economic
+excerpt: The acronym STEM represents the educational disciplines of Science, Technology, Engineering, and Math ...
+version: Page Template md Dtd 02-06-18
+navigation_weight: 8
+categories: economics
 ---
 # {{ page.title }}
 
@@ -12,7 +12,25 @@ categories: economic
 
 {% include toc.md %}
 
-{% include flammarion-svg.md %}
+## First Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+## Import Code
+
+More to come ...
+
+## Last Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
 
 {% include sources-and-uses.md %}
 
