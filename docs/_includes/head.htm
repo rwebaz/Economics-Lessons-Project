@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     {% seo %}
     <title>{{ page.title }} | {{ site.title }}</title>
-    <!-- Head Template htm Dtd 02-05-18 pm -->
+    <!-- Head Template htm Dtd 02-08-18 -->
     <!-- Note. The Liquid SEO tag can be comment out w Liquid raw - endraw tags only -->
     
     <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
@@ -21,7 +21,6 @@
     <link href="../assets/css/style.scss" rel="stylesheet" /> -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> 
     
-  
     <!-- Add Fav icon Generator Links from Dan's Tools C=> https://www.favicon-generator.org/ -->
     <link rel="apple-touch-icon" sizes="57x57" href="../assets/img/ico/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="../assets/img/ico/apple-icon-60x60.png">
