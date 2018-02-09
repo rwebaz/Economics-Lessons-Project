@@ -1,21 +1,22 @@
 ---
 title: Money Supply
 layout: default
-navigation_weight: 9
+excerpt: Money supply is the key to low inflation ...
+version: Page Template md Dtd 02-06-18
+navigation_weight: 8
+categories: economics
 ---
-# Money Supply
+# {{ page.title }}
 
-{{ site.tagline }}
+{{ page.excerpt }}
 
-Ever wonder why in the face of an (8) year recovery and the umpteen trillions of dollars of *Quantitative Easinings* engineered by the Federal Reserve and other central banks around the world that still to this day the Treasury yield curve represents a flat future vis-a-vis inflation?
+{% include toc.md %}
 
-{% include toc-flammarion.md %}
+## Quantitative Easing
 
-## Subtitle
+Ever wonder why in the face of an (8) year recovery and the umpteen trillions of dollars of *Quantitative Easings* engineered by the Federal Reserve and other central banks around the world that still to this day the Treasury yield curve represents a flat future vis-a-vis inflation?
 
-Place the introducing line of text ie.) the 'tagline' here ...
-
-## The Key to Low Inflation
+### The Key to Low Inflation
 
 "Money supply is the key to low inflation." ~ Milton Friedman
 
@@ -33,7 +34,7 @@ Which will kick start the lending cycle and the trailing cycle of growth.
 
 Thus, increasing the money supply.
 
-## The Annual CPI Index
+### The Annual CPI Index
 
 Consumer price indices are averages.
 
@@ -61,7 +62,7 @@ It's not rocket science, but our nation's money supply has just clocked in at th
 
 In an expansion, the money supply should grow at approximately the same rate as the inflation rate plus real GDP expansion.
 
-## Da Banks
+### Da Banks
 
 So, should we blame the banks?
 
@@ -73,7 +74,7 @@ Are they "just coming back"?
 
 Or, are they "coming back with profits"?
 
-## The Bottom Line
+### The Bottom Line
 
 No, we are not growing our money supply at a rate that matches our real economic growth in GDP plus our inflation rate.
 
@@ -103,7 +104,7 @@ A "blah" economy watching a bull market run.
 
 Strange, indeed ...!
 
-## Solution
+### Solution
 
 The Federal Reserve must begin to wind down its $4 to $5 trillion dollar accumulated balance sheet of assets, by not simply letting expiring notes "roll off" without replacement.
 
@@ -121,12 +122,28 @@ Until then, you can't sell, you can't buy.
 
 Only stagnate.
 
-Source: @KenethLFisher
+**Note**. The above synopsis was derived from an article written by Ken Fisher [[2](#KENFISHER){:.red}] and a (.pdf) written by Robert Shiller [[3](#ROBERTSHILLER){:.red}].
 
-Ken Fisher, currently #200 on Forbes list of the 400 Wealthiest Americans
+## Last Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
 
 {% include sources-and-uses.md %}
 
+1. {:#KENFISHER}[Ken Fisher: #200 on Forbes list of the 400 Wealthiest Americans](https://www.twitter.com/KenethLFisher){:title='Click to Visit the Twitter profile page of Kenneth L Fisher'}{:target='_blank'}. Published by © 2017 [Twitter.com](https://www.twitter.com/KenethLFisher){:title='Click to Visit the Twitter profile page of Kenneth L Fisher'}{:target='_blank'}.
+
+1. {:#ROBERTSHILLER}[Narrative Economics in 2017 by Robert Shiller](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title='Click to Visit Narrative Economics in 2017 by Robert Shiller'}{:target='_blank'}. Published by © 2017 [Yale.edu](https://cowles.yale.edu/){:title='Click to Visit Yale dot edu'}{:target='_blank'}.
+
 ### External Sources
 
-- The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title="Click to Visit the Source Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} page of the Shell Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- The [Project Source Links](https://mminail.github.io/Economics/Source-Economics-Links.htm){:title="Click to Visit the Source Links page of the Economics Lessons Project at GitHub pages"}{:target="_blank"} page of the Economics Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+**Note**. This page crafted with {{ page.version }}.
