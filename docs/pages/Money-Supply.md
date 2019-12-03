@@ -2,19 +2,19 @@
 title: Money Supply
 layout: default
 excerpt: Money supply is the key to low inflation ...
-version: Page Template md Dtd 02-06-18
+hint: Ever wonder why in the face of an (8) year recovery and the umpteen trillions of dollars of Quantitative Easings engineered by the Federal Reserve and other central banks around the world ...
+repo: Economics-Lessons-Project
+ver_date: 11-26-19
 navigation_weight: 8
-categories: economics
+categories: page
 ---
-# {{ page.title }}
-
-{{ page.excerpt }}
-
 {% include toc.md %}
 
 ## Quantitative Easing
 
-Ever wonder why in the face of an (8) year recovery and the umpteen trillions of dollars of *Quantitative Easings* engineered by the Federal Reserve and other central banks around the world that still to this day the Treasury yield curve represents a flat future vis-a-vis inflation?
+> **Hint**. {{ page.hint }}
+
+Still to this day the Treasury yield curve represents a flat future vis-a-vis inflation.
 
 ### The Key to Low Inflation
 
@@ -122,28 +122,18 @@ Until then, you can't sell, you can't buy.
 
 Only stagnate.
 
-**Note**. The above synopsis was derived from an article written by Ken Fisher [[2](#KENFISHER){:.red}] and a (.pdf) written by Robert Shiller [[3](#ROBERTSHILLER){:.red}].
-
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-### Raw Code Block
+***
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
-
-{% include sources-and-uses.md %}
+**Note**. The above synopsis was derived from an article written by Ken Fisher [[2](#KENFISHER){:.red}] and a (.pdf) written by Robert Shiller [[3](#ROBERTSHILLER){:.red}].
 
 1. {:#KENFISHER}[Ken Fisher: #200 on Forbes list of the 400 Wealthiest Americans](https://www.twitter.com/KenethLFisher){:title='Click to Visit the Twitter profile page of Kenneth L Fisher'}{:target='_blank'}. Published by © 2017 [Twitter.com](https://www.twitter.com/KenethLFisher){:title='Click to Visit the Twitter profile page of Kenneth L Fisher'}{:target='_blank'}.
 
 1. {:#ROBERTSHILLER}[Narrative Economics in 2017 by Robert Shiller](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title='Click to Visit Narrative Economics in 2017 by Robert Shiller'}{:target='_blank'}. Published by © 2017 [Yale.edu](https://cowles.yale.edu/){:title='Click to Visit Yale dot edu'}{:target='_blank'}.
 
-### External Sources
+***
 
-- The [Project Source Links](https://mminail.github.io/Economics/Source-Economics-Links.htm){:title="Click to Visit the Source Links page of the Economics Lessons Project at GitHub pages"}{:target="_blank"} page of the Economics Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
-
-**Note**. This page crafted with {{ page.version }}.
+{% include patreon-link.md %}
